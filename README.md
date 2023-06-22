@@ -24,8 +24,8 @@ W ramach realizacji programu kursu przygotowałem i wykonałem projekt testowy n
 * <a href="https://drive.google.com/file/d/1L691Ou5MtI0tLph0aR7kJzXtMXUG_VbT/view?usp=sharing">Specyfikacja techniczna aplikacji MrBuggy7 (plik pdf do wglądu)</a>
 ## Testy API - Kolekcje programu Postman
 W trakcie kursu zdobyłem podstawową wiedzę i umiejętności z zakresu weryfikacji poprawności działania API stron internetowych oraz aplikacji webowych w programie POSTMAN metodami GET, POST, PUT, DELETE.
-* Walidacja API serwisu <a href="https://jsonplaceholder.typicode.com">jsonplaceholder.typicode</a> - metody GET, POST, PUT, DELETE. <a href="https://drive.google.com/drive/folders/1QtVP0PGMgkOhYldpvlG_VDEP2dTR7gns?usp=sharing">[Zobacz/Pobierz kolekcję]</a>
-* Walidacja zabezpieczeń API serwisu www.bookero.pl - bez użycia i przy użyciu tokena autoryzacyjnego. <a href="https://drive.google.com/drive/folders/1m2X0TPX91TE3ITOPMf21DSQIdTR8NC6Y?usp=sharing">[Zobacz/Pobierz kolekcję]</a>
+* Weryfikacja API serwisu <a href="https://jsonplaceholder.typicode.com">jsonplaceholder.typicode</a> - metody GET, POST, PUT, DELETE. <a href="https://drive.google.com/drive/folders/1QtVP0PGMgkOhYldpvlG_VDEP2dTR7gns?usp=sharing">[Zobacz/Pobierz kolekcję]</a>
+* Weryfikacja zabezpieczeń API serwisu www.bookero.pl - bez użycia i przy użyciu tokena autoryzacyjnego. <a href="https://drive.google.com/drive/folders/1m2X0TPX91TE3ITOPMf21DSQIdTR8NC6Y?usp=sharing">[Zobacz/Pobierz kolekcję]</a>
 ## Język SQL - przykłady poleceń
 Poznałem również podstawowe polecenia wykorzystywane w języku SQL.
 
@@ -56,7 +56,7 @@ W trakcie nauki zapoznałem się i korzystałem z oprogramowania oraz narzędzi 
 Pojęcie procesu tworzenia, rozwoju oraz dostarczania oprogramowania w filozofii <b>Agile</b> nie jest mi obce, zarówno jak i metodyka w <b>Scrum'owym</b> systemie pracy.
 Z natury jestem bardzo skrupulatną, dokładną oraz spostrzegawczą osobą. Lubię wiedzieć jak coś działa, <b>a jeszcze bardziej dlaczego coś NIE działa ;)</b>. Cechy te na pewno okażą się przydatne w codziennej pracy testera.
 
-W kręgu moich zainteresowań znajdują się m.in. sprzęt komputerowy, oprogramowanie, nowinki technologiczne oraz gry komputerowe, które uwielbiam od najmłodszych lat. Biorę udział w beta testach gry na urządzenia mobilne oparte na systemie operacyjnym Android (w przyszłości również na komputery osobiste), gdzie wykonuję testy eksploracyjne oraz funkcjonalne na poziomie systemowym.
+W kręgu moich zainteresowań znajdują się m. in. sprzęt komputerowy, oprogramowanie, nowinki technologiczne oraz gry komputerowe, które uwielbiam od najmłodszych lat. Biorę udział w beta testach gry na urządzenia mobilne oparte na systemie operacyjnym Android, gdzie przeprowadzam testy eksploracyjne, funkcjonalne oraz niefunkcjonalne na poziomie systemowym i akceptacyjnym.
 
 W kontaktach i komunikacji interpersonalnej staram się pamiętać, że to do nadawcy należy obowiązek sformułowania komunikatu tak, aby był zrozumiały dla odbiorcy. Lubię jasno określone obowiązki, stałe godziny pracy oraz ciszę, dzięki którym łatwiej, efektywniej i przede wszystkim przyjemniej wykonuję swoje zadania. Zależy mi na możliwości pracy hybrydowej lub docelowo zdalnej. Cenię sobie umiejętność merytorycznej i kulturalnej rozmowy na każdy, w tym również trudny temat. Nie akceptuję pracy opartej na domysłach, pod ciągłą presją czasu i chaosu (zarówno organizacyjnego, komunikacyjnego, jak i w otoczeniu).
 
