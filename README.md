@@ -28,6 +28,8 @@ W trakcie kursu zdobyłem podstawową wiedzę i umiejętności z zakresu weryfik
 * Walidacja zabezpieczeń API serwisu www.bookero.pl - bez użycia i przy użyciu tokena autoryzacyjnego. <a href="https://drive.google.com/drive/folders/1m2X0TPX91TE3ITOPMf21DSQIdTR8NC6Y?usp=sharing">[Zobacz/Pobierz kolekcję]</a>
 ## Język SQL - przykłady poleceń
 Poznałem również podstawowe polecenia wykorzystywane w języku SQL.
+
+[Jeżeli po kliknięciu w któryś z poniższych plików Dysk Google wyświetla komunikat <b>"Podgląd niedostępny"</b>, proszę odświeżyć stronę, np. klawiszem F5].
 * <a href="https://drive.google.com/drive/folders/1k9RvWRgV-NecmNqAZr5nGUCgi8xf1F36?usp=sharing">SELECT</a>
 * <a href="https://drive.google.com/drive/folders/1vxCQLkX9v1hNSGJGEsf1xZKTkKXALCO7?usp=sharing">INSERT</a>
 * <a href="https://drive.google.com/drive/folders/1QgzH_fCcGW_zX-1kg0w3YrrrDmwbllCh?usp=sharing">UPDATE</a>
