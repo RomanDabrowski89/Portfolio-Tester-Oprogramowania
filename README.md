@@ -38,7 +38,7 @@ Poznałem również podstawowe polecenia wykorzystywane w języku SQL.
 * <a href="https://drive.google.com/file/d/1tymCcd0n7uee9DUG-Kmy65nuS8vPSF79/view?usp=sharing">LEFT JOIN</a>
 * <a href="https://drive.google.com/file/d/1sDHbuJc2cDP-nmeH5av_QCQ1bc25j5QJ/view?usp=sharing">RIGHT JOIN</a>
 ## System kontroli wersji GIT
-Zapoznałem się i pracowałem z rozproszonym systemem kontroli wersji GIT. Uczyłem się korzystania z terminala GIT na maszynie lokalnej i za pomocą odpowiednich poleceń integrowania danych z repozytorium na serwerze github.com.
+Zapoznałem się i pracowałem z rozproszonym systemem kontroli wersji GIT. Uczyłem się korzystania z terminala GIT (oraz GIT GUI) na maszynie lokalnej i za pomocą odpowiednich poleceń integrowania danych z repozytorium na serwerze github.com.
 ## Narzędzia
 W trakcie nauki zapoznałem się i korzystałem z oprogramowania oraz narzędzi przydatnych w codziennej pracy <b>Testera Oprogramowania</b>:
 * PicPick
