@@ -7,12 +7,21 @@ Znajdziesz tutaj przykłady umiejętności, które zdobyłem w trakcie nauki <b>
 
 Jeżeli chciał_byś poznać mnie trochę bliżej, w ostatniej sekcji zamieściłem parę słów o mnie.
 
-## Kursy
-* Ukończyłem: <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?kw=praktyczny+kurs+testowania&src=sac">Praktyczny kurs testowania oprogramowania</a> na platformie Udemy.
-* W trakcie: <a href="https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/">Postman od podstaw - testowanie REST API</a>
-## Certyfikaty
-* Certyfikat ukończenia kursu "Praktyczny kurs testowania oprogramowania".
+## Kursy i certyfikaty
+
+<b>Kursy, które ukończyłem do tej pory na platformie Udemy</b>:
+
+* <a href="https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?kw=praktyczny+kurs+testowania&src=sac">Praktyczny kurs testowania oprogramowania</a> na platformie Udemy.
+
 <img src="https://github.com/RomanDabrowski89/Resources/blob/0f9ade2bfed078ff73d2859c90eab205106e00d3/Certyfikat%20-%20Kurs%20Testowania%20Oprogramowania.png" alt="Certyfikat - Kurs Testowania Oprogramowania">
+
+* <a href="https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/">Postman od podstaw - testowanie REST API</a>
+
+[Tutaj umieścić certyfikat kursu Postman od podstaw]
+
+<b>Kursy, które planuję zrealizować w następnej kolejności</b>:
+
+* <a href="https://www.udemy.com/course/cypress-od-podstaw/">Cypress od podstaw - Automatyzacja testów</a>
 
 ## Przykładowy Projekt Testowy
 W ramach realizacji programu kursu przygotowałem i wykonałem projekt testowy na podstawie fake'owej aplikacji <a href="http://mrbuggy.pl">MrBuggy7.</a>
