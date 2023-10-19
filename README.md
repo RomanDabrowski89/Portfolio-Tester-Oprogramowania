@@ -99,6 +99,7 @@ Poznałem również podstawowe polecenia wykorzystywane w <b>języku SQL</b>.
 * <a href="https://drive.google.com/drive/folders/1yOBUHk2ALxw3GHf7lge89a_ZwEUZwQYW?usp=sharing">INNER JOIN</a>
 * <a href="https://drive.google.com/file/d/1tymCcd0n7uee9DUG-Kmy65nuS8vPSF79/view?usp=sharing">LEFT JOIN</a>
 * <a href="https://drive.google.com/file/d/1sDHbuJc2cDP-nmeH5av_QCQ1bc25j5QJ/view?usp=sharing">RIGHT JOIN</a>
+* <a href="https://drive.google.com/file/d/1ulRIUhSloik4MaJVrfIvn-L1va6GKp9A/view?usp=sharing">LEFT+RIGHT JOIN</a>
 
 ## System kontroli wersji GIT
 
