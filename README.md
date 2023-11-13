@@ -37,7 +37,7 @@ W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy
 ## Testy API - Postman, automatyzacja i integracja z narzędziami CI/CD
 <img src="https://github.com/RomanDabrowski89/Resources/blob/8b9ade79eaa7bdbd1db05070ca6cd9496dc8c3b5/Baner_Postman%2BNewman%2BJenkins.png" alt="Baner Postman Newman Jenkins">
 
-W trakcie kursów zdobyłem wiedzę teoretyczną z obszaru działania usług sieciowych (<b>RPC</b>, <b>SOAP</b>, <b>REST API</b>) jak i praktyczne umiejętności w pracy z programem <b>POSTMAN</b> i weryfikacji poprawności działania <b>API</b> serwerów, aplikacji webowych oraz stron www stworzonych w architekturze <b>REST</b> metodami <b>GET</b>, <b>POST</b>, <b>PUT</b>, <b>DELETE</b>. Nauczyłem się jak korzystać z <b>asercji Chai</b> do automatyzacji testów API w Postmanie oraz poznałem metody integracji testów API Postman z narzędziami <b>CI/CD</b> takimi jak <b>Newman</b> oraz <b>Jenkins</b>.
+W trakcie kursów zdobyłem wiedzę teoretyczną z obszaru działania usług sieciowych (<b>RPC</b>, <b>SOAP</b>, <b>REST API</b>) jak i praktyczne umiejętności w pracy z programem <b>Postman</b> i weryfikacji poprawności działania <b>API</b> serwerów, aplikacji webowych oraz stron www stworzonych w architekturze <b>REST</b> metodami <b>GET</b>, <b>POST</b>, <b>PUT</b>, <b>DELETE</b>. Nauczyłem się jak korzystać z <b>asercji Chai</b> do automatyzacji testów API w Postmanie oraz poznałem metody integracji testów API Postman z narzędziami <b>CI/CD</b> takimi jak <b>Newman</b> oraz <b>Jenkins</b>.
 
 W trakcie pracy z programem nauczyłem się również tworzenia <b>Mock serwerów</b> do emulacji serwerów produkcyjnych w środowisku testowym, praktycznego korzystania ze <b>zmiennych</b> (globalnych, środowiskowych, kolekcji) oraz operowaniem <b>parametrami zapytań</b>.
 
@@ -99,6 +99,7 @@ Poznałem również podstawowe polecenia wykorzystywane w <b>języku SQL</b>.
 * <a href="https://drive.google.com/drive/folders/1yOBUHk2ALxw3GHf7lge89a_ZwEUZwQYW?usp=sharing">INNER JOIN</a>
 * <a href="https://drive.google.com/file/d/1tymCcd0n7uee9DUG-Kmy65nuS8vPSF79/view?usp=sharing">LEFT JOIN</a>
 * <a href="https://drive.google.com/file/d/1sDHbuJc2cDP-nmeH5av_QCQ1bc25j5QJ/view?usp=sharing">RIGHT JOIN</a>
+* <a href="https://drive.google.com/file/d/1ZI857Ml3Oac8-oX51H-n8LvFz0HpoKS6/view?usp=sharing">LEFT+RIGHT JOIN</a>
 
 ## System kontroli wersji GIT
 
