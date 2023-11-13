@@ -133,4 +133,4 @@ W kręgu moich zainteresowań znajdują się m. in. sprzęt komputerowy, oprogra
 
 Lubię pracę według wytycznych, jasno określone obowiązki oraz porządek. Cechuje mnie świetna organizacja pracy, zaangażowanie, dokładność, rzetelność oraz chęć do nauki i samorozwoju. Cenię umiejętność merytorycznej i kulturalnej rozmowy na każdy, w tym również trudny temat.
 
-Jestem pogodny i przyjaźnie nastawiony wobec ludzi. Potrafię doskonale wsłuchiwać w innych. W miejscach, w których przebywam roztaczam wspierającą i pozytywną atmosferę.
+Jestem pogodny i przyjaźnie nastawiony wobec ludzi. Potrafię doskonale wsłuchiwać w innych, a w miejscach w których przebywam roztaczam wspierającą i pozytywną atmosferę.
