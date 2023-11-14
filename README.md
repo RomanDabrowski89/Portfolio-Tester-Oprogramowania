@@ -31,7 +31,7 @@ W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy
 * <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusze i przypadki testowe</a>
 * <a href="https://drive.google.com/drive/folders/1y3APODqmUxKS-DIqTkJtHAdyJ3WuCIy-?usp=sharing">Raporty z wykonanych przypadków testowych</a>
 * <a href="https://drive.google.com/drive/folders/14_-K_8wi1qG5-IP2dDzeBs5KOgVLuJrT?usp=sharing">Przykładowe zgłoszenia błędów w programie JIRA wraz załącznikami</a>
-* <a href="https://drive.google.com/file/d/1e048GXPURkOsNt55zcx6zMUQvg67NJGS/view?usp=sharing">Kompletny raport z projektu testowego</a>
+* <a href="https://drive.google.com/file/d/1e048GXPURkOsNt55zcx6zMUQvg67NJGS/view?usp=sharing">Raport z projektu testowego</a>
 * <a href="https://drive.google.com/file/d/1L691Ou5MtI0tLph0aR7kJzXtMXUG_VbT/view?usp=sharing">Specyfikacja techniczna aplikacji MrBuggy7 (plik pdf do wglądu)</a>
 
 ## Testy API - Postman, automatyzacja i integracja z narzędziami CI/CD
@@ -112,17 +112,19 @@ W trakcie nauki zapoznałem się i korzystałem z oprogramowania oraz narzędzi 
 
 <img src="https://github.com/RomanDabrowski89/Resources/blob/a2870ddefcb02626343642f1fa6322d7b6863cbc/Tools%20logo.png" width="80" height="80" alt="Tools logo">
 
+* Postman
+* TestLink
+* JIRA
+* Devtools
+* Jenkins
+* Newman
+* GIT
+* BrowserStack
 * PicPick
 * Sharex
 * Przeglądarki internetowe: Chrome, Edge, Firefox, Opera wraz z rozszerzeniami (PerfectPixel, ColorZilla, GoFullPage, JSON Viewer, WhatFont)
-* Devtools
-* TestLink
-* JIRA
-* Postman
-* GIT
 * Owasp Zap
 * Jmeter
-* BrowserStack
 ## Parę słów o mnie
 <img src="https://github.com/RomanDabrowski89/Resources/blob/7fccdf36dc81655cb50c9bd8f7a411a20896b1ce/Baner%20About.png" alt="Baner About">
 
