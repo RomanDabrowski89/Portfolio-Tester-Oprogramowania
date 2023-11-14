@@ -112,17 +112,19 @@ W trakcie nauki zapoznałem się i korzystałem z oprogramowania oraz narzędzi 
 
 <img src="https://github.com/RomanDabrowski89/Resources/blob/a2870ddefcb02626343642f1fa6322d7b6863cbc/Tools%20logo.png" width="80" height="80" alt="Tools logo">
 
+* Postman
+* TestLink
+* JIRA
+* Devtools
+* Jenkins
+* Newman
+* GIT
+* BrowserStack
 * PicPick
 * Sharex
 * Przeglądarki internetowe: Chrome, Edge, Firefox, Opera wraz z rozszerzeniami (PerfectPixel, ColorZilla, GoFullPage, JSON Viewer, WhatFont)
-* Devtools
-* TestLink
-* JIRA
-* Postman
-* GIT
 * Owasp Zap
 * Jmeter
-* BrowserStack
 ## Parę słów o mnie
 <img src="https://github.com/RomanDabrowski89/Resources/blob/7fccdf36dc81655cb50c9bd8f7a411a20896b1ce/Baner%20About.png" alt="Baner About">
 
