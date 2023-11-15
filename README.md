@@ -21,12 +21,13 @@ Jeżeli chciał_byś poznać mnie trochę bliżej, w ostatniej sekcji zamieści�
 <img src="https://github.com/RomanDabrowski89/Resources/blob/main/Certyfikat%20-%20Kurs%20Postman%20od%20podstaw.png" alt="Certyfikat - Kurs Postman od Podstaw">
 <hr>
 
-<b>W trakcie</b>:
+<b>Następnie</b>:
 
 * <a href="https://www.udemy.com/course/cypress-od-podstaw/"><b>Cypress od podstaw - Automatyzacja testów</b></a>
 
 ## Przykładowy Projekt Testowy
 W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy na podstawie fake'owej aplikacji <a href="http://mrbuggy.pl">MrBuggy7.</a>
+[W przypadku długiego czasu ładowania podglądu, zaleca się pobranie pliku na dysk lokalny.]
 * <a href="https://drive.google.com/file/d/1EECXOz-r8O28YpjqDiTg6zASwV-j1f5D/view?usp=sharing">Test plan</a>
 * <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusz i przypadki testowe</a>
 * <a href="https://drive.google.com/drive/folders/1y3APODqmUxKS-DIqTkJtHAdyJ3WuCIy-?usp=sharing">Raporty z wykonanych przypadków testowych</a>
@@ -90,7 +91,7 @@ Poznałem również podstawowe polecenia wykorzystywane w <b>języku SQL</b>.
 
 <img src="https://github.com/RomanDabrowski89/Resources/blob/cb5168f9f624191e156997a8c51c8c2d6e76828c/SQL%20logo.png" width="85" height="45" alt="SQL logo">
 
-[Jeżeli po kliknięciu w któryś z poniższych plików Dysk Google wyświetla komunikat <b>"Podgląd niedostępny"</b>, proszę odświeżyć stronę, np. klawiszem F5].
+[W przypadku wystąpienia komunikatu <b>"Podgląd niedostępny"</b>, zaleca się pobranie pliku na dysk lokalny w celu jego wyświetlenia.]
 
 * <a href="https://drive.google.com/drive/folders/1k9RvWRgV-NecmNqAZr5nGUCgi8xf1F36?usp=sharing">SELECT</a>
 * <a href="https://drive.google.com/drive/folders/1vxCQLkX9v1hNSGJGEsf1xZKTkKXALCO7?usp=sharing">INSERT</a>
