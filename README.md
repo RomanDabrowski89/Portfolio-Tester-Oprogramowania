@@ -28,7 +28,7 @@ Jeżeli chciał_byś poznać mnie trochę bliżej, w ostatniej sekcji zamieści�
 ## Przykładowy Projekt Testowy
 W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy na podstawie fake'owej aplikacji <a href="http://mrbuggy.pl">MrBuggy7.</a>
 * <a href="https://drive.google.com/file/d/1EECXOz-r8O28YpjqDiTg6zASwV-j1f5D/view?usp=sharing">Test plan</a>
-* <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusze i przypadki testowe</a>
+* <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusz i przypadki testowe</a>
 * <a href="https://drive.google.com/drive/folders/1y3APODqmUxKS-DIqTkJtHAdyJ3WuCIy-?usp=sharing">Raporty z wykonanych przypadków testowych</a>
 * <a href="https://drive.google.com/drive/folders/14_-K_8wi1qG5-IP2dDzeBs5KOgVLuJrT?usp=sharing">Przykładowe zgłoszenia błędów w programie JIRA wraz załącznikami</a>
 * <a href="https://drive.google.com/file/d/1e048GXPURkOsNt55zcx6zMUQvg67NJGS/view?usp=sharing">Raport z projektu testowego</a>
