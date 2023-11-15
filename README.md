@@ -21,20 +21,18 @@ Jeżeli chciał_byś poznać mnie trochę bliżej, w ostatniej sekcji zamieści�
 <img src="https://github.com/RomanDabrowski89/Resources/blob/main/Certyfikat%20-%20Kurs%20Postman%20od%20podstaw.png" alt="Certyfikat - Kurs Postman od Podstaw">
 <hr>
 
-<b>Następne kursy, które chcę zrealizować</b>:
+<b>Kursy, które chcę zrealizować w następnej kolejności</b>:
 
 * <a href="https://www.udemy.com/course/cypress-od-podstaw/"><b>Cypress od podstaw - Automatyzacja testów</b></a>
 
 ## Przykładowy Projekt Testowy
 W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy na podstawie fake'owej aplikacji <a href="http://mrbuggy.pl">MrBuggy7.</a>
-
-[W przypadku długiego czasu ładowania podglądu, zaleca się pobranie pliku na dysk lokalny.]
-* <a href="https://drive.google.com/file/d/1EECXOz-r8O28YpjqDiTg6zASwV-j1f5D/view?usp=sharing">Test plan</a>
-* <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusz i przypadki testowe</a>
-* <a href="https://drive.google.com/drive/folders/1y3APODqmUxKS-DIqTkJtHAdyJ3WuCIy-?usp=sharing">Raporty z wykonanych przypadków testowych</a>
-* <a href="https://drive.google.com/drive/folders/14_-K_8wi1qG5-IP2dDzeBs5KOgVLuJrT?usp=sharing">Przykładowe zgłoszenia błędów w programie JIRA wraz załącznikami</a>
-* <a href="https://drive.google.com/file/d/1e048GXPURkOsNt55zcx6zMUQvg67NJGS/view?usp=sharing">Raport z projektu testowego</a>
-* <a href="https://drive.google.com/file/d/1L691Ou5MtI0tLph0aR7kJzXtMXUG_VbT/view?usp=sharing">Specyfikacja techniczna aplikacji MrBuggy7 (plik pdf do wglądu)</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/Projekt%20Testowy%20MrBuggy7/Test%20Plan%20-%20MrBuggy7.pdf">Test plan</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/Projekt%20Testowy%20MrBuggy7/Scenariusz%20i%20przypadki%20testowe%20-%20Mr-Buggy-7.pdf">Scenariusz i przypadki testowe</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/Projekt%20Testowy%20MrBuggy7/Wykonane%20przypadki%20testowe">Raporty z wykonanych przypadków testowych</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/Projekt%20Testowy%20MrBuggy7/Zg%C5%82oszenia%20B%C5%82%C4%99d%C3%B3w%20w%20Jira">Przykładowe zgłoszenia błędów w programie JIRA wraz załącznikami</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/Projekt%20Testowy%20MrBuggy7/Raport%20z%20Projektu%20Testowego%20-%20MrBuggy7.pdf">Raport z projektu testowego</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/Projekt%20Testowy%20MrBuggy7/MrBuggy7-Specyfikacja-Techniczna-v1.pdf">Specyfikacja techniczna aplikacji MrBuggy7 (plik pdf do wglądu)</a>
 
 ## Testy API - Postman, automatyzacja i integracja z narzędziami CI/CD
 <img src="https://github.com/RomanDabrowski89/Resources/blob/8b9ade79eaa7bdbd1db05070ca6cd9496dc8c3b5/Baner_Postman%2BNewman%2BJenkins.png" alt="Baner Postman Newman Jenkins">
@@ -62,7 +60,7 @@ W trakcie pracy z programem nauczyłem się również tworzenia <b>Mock serweró
 * integracja testów API Postman z programem <b>Newman</b> uruchamianych z poziomu <b>wiersza poleceń</b> (<b>CLI</b>) - za pomocą plików programu Postman w formacie json oraz adresów URL;
 * integracja testów API Postman z <b>serwerem automatyzacji testów Jenkins</b>.
 
-<p>&#8595; <b>POBIERZ</b>:<br><a href="https://drive.google.com/drive/folders/1PmoPQfls-4R0QhqPbrtvFfnpM6NWqx8G?usp=sharing">Kolekcja requestów <b>Trello API</b> oraz <b>środowisko</b></a> ze zmiennymi programu <b>Postman</b> (pliki w formacie json).</p>
+<p>&#8595; <b>POBIERZ</b>:<br><a href="https://github.com/RomanDabrowski89/Resources/tree/main/Postman%20-%20testowanie%20API/Trello%20REST%20API%20Tests">Kolekcja requestów <b>Trello API</b> oraz <b>środowisko</b></a> ze zmiennymi programu <b>Postman</b> (pliki w formacie json).</p>
 
 <hr>
 
@@ -70,7 +68,7 @@ W trakcie pracy z programem nauczyłem się również tworzenia <b>Mock serweró
 
 * Weryfikacja poprawności działania <b>zabezpieczeń API</b> w serwisie <a href="https://httpbin.org"><b>HTTP BIN</b></a> metodami <b>basic auth</b> oraz <b>bearer token</b>. W kolekcji zostały zaimplementowane skrypty testów automatycznych w postaci asercji Chai.
 
-<p>&#8595; <b>POBIERZ</b>:<br><a href="https://drive.google.com/drive/folders/1IV7Lj_TcqSkBcHH2uD6OD1uoPQkYADwH?usp=sharing">Kolekcja requestów testujących <b>autoryzację</b></a> (plik w formacie json).</p>
+<p>&#8595; <b>POBIERZ</b>:<br><a href="https://github.com/RomanDabrowski89/Resources/blob/main/Postman%20-%20testowanie%20API/HTTP_BIN-Auth_verification.json">Kolekcja requestów testujących <b>autoryzację</b></a> (plik w formacie json).</p>
 
 <hr>
 
@@ -84,7 +82,7 @@ W trakcie pracy z programem nauczyłem się również tworzenia <b>Mock serweró
 * określenie zwracanych przez Mock server <b>status kodów</b>, <b>nagłówków</b> oraz <b>ładunków</b>;
 * implementacja skryptów testów automatycznych w postaci <b>asercji Chai</b> weryfikujących zwracane przez API Mock serwera odpowiedzi.
 
-<p>&#8595; <b>POBIERZ</b>:<br><a href="https://drive.google.com/drive/folders/1FfKpYjDsUHPYp44xtUHIquT5X4NY6iG_?usp=sharing">Kolekcja requestów testujących <b>API Mock serwera</b></a> (plik w formacie json).</p>
+<p>&#8595; <b>POBIERZ</b>:<br><a href="https://github.com/RomanDabrowski89/Resources/blob/main/Postman%20-%20testowanie%20API/Mock_server-Dummy_app.json">Kolekcja requestów testujących <b>API Mock serwera</b></a> (plik w formacie json).</p>
 
 ## Język SQL - przykłady poleceń
 
@@ -92,16 +90,14 @@ Poznałem również podstawowe polecenia wykorzystywane w <b>języku SQL</b>.
 
 <img src="https://github.com/RomanDabrowski89/Resources/blob/cb5168f9f624191e156997a8c51c8c2d6e76828c/SQL%20logo.png" width="85" height="45" alt="SQL logo">
 
-[W przypadku wystąpienia komunikatu <b>"Podgląd niedostępny"</b>, zaleca się pobranie pliku na dysk lokalny w celu jego wyświetlenia.]
-
-* <a href="https://drive.google.com/drive/folders/1k9RvWRgV-NecmNqAZr5nGUCgi8xf1F36?usp=sharing">SELECT</a>
-* <a href="https://drive.google.com/drive/folders/1vxCQLkX9v1hNSGJGEsf1xZKTkKXALCO7?usp=sharing">INSERT</a>
-* <a href="https://drive.google.com/drive/folders/1QgzH_fCcGW_zX-1kg0w3YrrrDmwbllCh?usp=sharing">UPDATE</a>
-* <a href="https://drive.google.com/drive/folders/11hlbF4pKjT4UxfabQap6mIHOTzbGGx3B?usp=sharing">DELETE</a>
-* <a href="https://drive.google.com/drive/folders/1yOBUHk2ALxw3GHf7lge89a_ZwEUZwQYW?usp=sharing">INNER JOIN</a>
-* <a href="https://drive.google.com/file/d/1tymCcd0n7uee9DUG-Kmy65nuS8vPSF79/view?usp=sharing">LEFT JOIN</a>
-* <a href="https://drive.google.com/file/d/1sDHbuJc2cDP-nmeH5av_QCQ1bc25j5QJ/view?usp=sharing">RIGHT JOIN</a>
-* <a href="https://drive.google.com/file/d/1ZI857Ml3Oac8-oX51H-n8LvFz0HpoKS6/view?usp=sharing">LEFT+RIGHT JOIN</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/SQL/SELECT">SELECT</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/SQL/INSERT">INSERT</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/SQL/UPDATE">UPDATE</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/SQL/DELETE">DELETE</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/tree/main/SQL/INNER%20JOIN">INNER JOIN</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/SQL/SQL%20-%20polecenie%20LEFT%20JOIN%20-%201.png">LEFT JOIN</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/SQL/SQL%20-%20polecenie%20RIGHT%20JOIN%20-%201.png">RIGHT JOIN</a>
+* <a href="https://github.com/RomanDabrowski89/Resources/blob/main/SQL/SQL%20-%20polecenie%20LEFT%2BRIGHT%20JOIN%20-%201.png">LEFT+RIGHT JOIN</a>
 
 ## System kontroli wersji GIT
 
