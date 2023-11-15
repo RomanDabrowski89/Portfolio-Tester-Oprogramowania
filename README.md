@@ -21,12 +21,13 @@ Jeżeli chciał_byś poznać mnie trochę bliżej, w ostatniej sekcji zamieści�
 <img src="https://github.com/RomanDabrowski89/Resources/blob/main/Certyfikat%20-%20Kurs%20Postman%20od%20podstaw.png" alt="Certyfikat - Kurs Postman od Podstaw">
 <hr>
 
-<b>Następnie</b>:
+<b>Następne kursy, które chcę zrealizować</b>:
 
 * <a href="https://www.udemy.com/course/cypress-od-podstaw/"><b>Cypress od podstaw - Automatyzacja testów</b></a>
 
 ## Przykładowy Projekt Testowy
 W ramach realizacji programu kursów przygotowałem i wykonałem projekt testowy na podstawie fake'owej aplikacji <a href="http://mrbuggy.pl">MrBuggy7.</a>
+
 [W przypadku długiego czasu ładowania podglądu, zaleca się pobranie pliku na dysk lokalny.]
 * <a href="https://drive.google.com/file/d/1EECXOz-r8O28YpjqDiTg6zASwV-j1f5D/view?usp=sharing">Test plan</a>
 * <a href="https://drive.google.com/file/d/1dJUUCbfbufjuhbVU7GxnM6ukjo6JlonJ/view?usp=sharing">Scenariusz i przypadki testowe</a>
