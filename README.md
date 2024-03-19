@@ -129,7 +129,7 @@ W trakcie nauki zapoznałem się i korzystałem z oprogramowania oraz narzędzi 
 Pojęcie procesu tworzenia, rozwoju oraz dostarczania oprogramowania w filozofii <b>Agile</b> nie jest mi obce, zarówno jak i metodyka w <b>Scrum'owym</b> systemie pracy.
 Z natury jestem bardzo skrupulatną, dokładną oraz spostrzegawczą osobą. Lubię wiedzieć jak coś działa, <b>a jeszcze bardziej dlaczego coś NIE działa :)</b>. Cechy te na pewno okażą się przydatne w codziennej pracy testera.
 
-W kręgu moich zainteresowań znajdują się m. in. sprzęt komputerowy, oprogramowanie, nowinki technologiczne oraz gry komputerowe, które uwielbiam od najmłodszych lat. Biorę udział w beta testach gry dedykowanej na na urządzenia mobilne i system operacyjny Android, gdzie przeprowadzam testy eksploracyjne, niefunkcjonalne oraz E2E na poziomie akceptacyjnym.
+W kręgu moich zainteresowań znajdują się m. in. sprzęt komputerowy, oprogramowanie, nowinki technologiczne oraz gry komputerowe, które uwielbiam od najmłodszych lat. Biorę udział w beta testach gry dedykowanej na urządzenia mobilne i system operacyjny Android, gdzie przeprowadzam testy eksploracyjne, niefunkcjonalne oraz E2E na poziomie akceptacyjnym.
 
 Lubię pracę według wytycznych, jasno określone obowiązki oraz porządek. Cechuje mnie świetna organizacja pracy, zaangażowanie, dokładność, rzetelność oraz chęć do nauki i samorozwoju. Cenię umiejętność merytorycznej i kulturalnej rozmowy na każdy, w tym również trudny temat.
 
